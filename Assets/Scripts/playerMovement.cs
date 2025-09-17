@@ -17,12 +17,12 @@ public class playerMovement : MonoBehaviour
     public CircleCollider2D lightCollider;
     public bool startOn = true;
     //light radius
-    public float fixedOuterRadius = 3.5f;
+    public float fixedOuterRadius = 15f;
     
     [Header("pitch degree")]
     public float minPitchDeg = -30f;
     public float maxPitchDeg= 30f;
-    public float pitchSpeed = 70f;
+    public float pitchSpeed = 180f;
     
 
     private Rigidbody2D rb;
@@ -52,7 +52,7 @@ public class playerMovement : MonoBehaviour
     {
         //player moving left and right
         float moveHorizontal = Input.GetAxis("Horizontal");
-        rb.linearVelocity = new Vector2(moveHorizontal * moveSpeed, rb.velocity.y);
+        rb.linearVelocity = new Vector2(moveHorizontal * moveSpeed, rb.linearVelocity.y);
         
         //player turning
         if (flipByInput && Mathf.Abs(moveHorizontal) > 0.01f)
@@ -68,7 +68,7 @@ public class playerMovement : MonoBehaviour
         }
         
         //control angle of flashlight
-        float pitchInput = Input.mouseScrollDelta.y;
+        float pitchInput = Input.mouseScrollDelta.y; //mouse scroll up = pitch up, mouse scroll down = pitch down
         if (Mathf.Abs(pitchInput) > 0.01f)
         {
             pitchDeg += pitchInput * pitchSpeed * Time.deltaTime;
@@ -76,8 +76,9 @@ public class playerMovement : MonoBehaviour
         }
         
         //flashlight facing
+        const float facingOffset = -75f; 
         float baseA = (facing == 1) ? 0f : 180f;  //if facing right, baseYaw = 0, if facing left, baseYaw = 180
-        float finalA = baseA + (facing ==1 ? pitchDeg : -pitchDeg); //mirror the angle if facing left
+        float finalA = baseA+ facingOffset + (facing ==1 ? pitchDeg : -pitchDeg); //mirror the angle if facing left
         flashlight.rotation = Quaternion.Euler(0f, 0f, finalA);
         
     }
