@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 8007075bab23f444e860bea77492cd99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5774861651187116626
+    second: unity_shadow-11_0
+  - first:
+      213: 985077300955378437
+    second: unity_shadow-11_1
+  - first:
+      213: -3068650158721359044
+    second: unity_shadow-11_2
+  - first:
+      213: 1936711230250721070
+    second: unity_shadow-11_3
+  - first:
+      213: -8544559660817258360
+    second: unity_shadow-11_4
+  - first:
+      213: -3835506876524485912
+    second: unity_shadow-11_5
+  - first:
+      213: 4826665713883246613
+    second: unity_shadow-11_6
+  - first:
+      213: -2224673101276442874
+    second: unity_shadow-11_7
+  - first:
+      213: 5187922603475718402
+    second: unity_shadow-11_8
+  - first:
+      213: 5906382154582168312
+    second: unity_shadow-11_9
+  - first:
+      213: -7182220378784666912
+    second: unity_shadow-11_10
+  - first:
+      213: -4501366070284085472
+    second: unity_shadow-11_11
+  - first:
+      213: 5670932091253719785
+    second: unity_shadow-11_12
+  - first:
+      213: 2882002761666462885
+    second: unity_shadow-11_13
+  - first:
+      213: -5306803234758528365
+    second: unity_shadow-11_14
+  - first:
+      213: 3053417117934800740
+    second: unity_shadow-11_15
+  - first:
+      213: 7431421355233571880
+    second: unity_shadow-11_16
+  - first:
+      213: 250912152587972043
+    second: unity_shadow-11_17
+  - first:
+      213: -4378234017198349308
+    second: unity_shadow-11_18
+  - first:
+      213: 1982511861742953238
+    second: unity_shadow-11_19
+  - first:
+      213: -5602454657884696236
+    second: unity_shadow-11_20
+  - first:
+      213: 5711409187778491512
+    second: unity_shadow-11_21
+  - first:
+      213: 1016811599406070659
+    second: unity_shadow-11_22
+  - first:
+      213: 7784601697807136109
+    second: unity_shadow-11_23
+  - first:
+      213: 5355587019646175802
+    second: unity_shadow-11_24
+  - first:
+      213: 6739923035509207947
+    second: unity_shadow-11_25
+  - first:
+      213: 7755823911910880857
+    second: unity_shadow-11_26
+  - first:
+      213: -3739665715957311497
+    second: unity_shadow-11_27
+  - first:
+      213: 2423106114596500443
+    second: unity_shadow-11_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unity_shadow-11_0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 530
+        width: 210
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa802431e642050800000000000000
+      internalID: 5774861651187116626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_1
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 738
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503feb70692bbad00800000000000000
+      internalID: 985077300955378437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_2
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 531
+        width: 141
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a77560f6f965d0800000000000000
+      internalID: -3068650158721359044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_3
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 524
+        width: 152
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f9a9f4a9490ea10800000000000000
+      internalID: 1936711230250721070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_4
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 523
+        width: 153
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888eade6240ab6980800000000000000
+      internalID: -8544559660817258360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_5
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 531
+        width: 141
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2a03331da85cac0800000000000000
+      internalID: -3835506876524485912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_6
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 754
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510719dd4e2cbf240800000000000000
+      internalID: 4826665713883246613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_7
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 754
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f0d09e99f5021e0800000000000000
+      internalID: -2224673101276442874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_8
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 754
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201d36efe143ff740800000000000000
+      internalID: 5187922603475718402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_9
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 523
+        width: 153
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29397b64fa7f150800000000000000
+      internalID: 5906382154582168312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_10
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 522
+        width: 165
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae7f75e90a35c90800000000000000
+      internalID: -7182220378784666912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 471
+        width: 175
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02798b8886fe781c0800000000000000
+      internalID: -4501366070284085472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_12
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 522
+        width: 248
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e28a8ce0b233be40800000000000000
+      internalID: 5670932091253719785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_13
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 526
+        width: 163
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a403d20e3eeef720800000000000000
+      internalID: 2882002761666462885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_14
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 522
+        width: 165
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f25b13927a56b0800000000000000
+      internalID: -5306803234758528365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_15
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 526
+        width: 128
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fc999e0baef5a20800000000000000
+      internalID: 3053417117934800740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_16
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 530
+        width: 134
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824f2f66956b12760800000000000000
+      internalID: 7431421355233571880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_17
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 526
+        width: 163
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcda5dcf54b6b7300800000000000000
+      internalID: 250912152587972043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_18
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 527
+        width: 60
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4046c55bb536d33c0800000000000000
+      internalID: -4378234017198349308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_19
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 522
+        width: 248
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ef22d80c438b10800000000000000
+      internalID: 1982511861742953238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_20
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 527
+        width: 60
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451dc86fb251042b0800000000000000
+      internalID: -5602454657884696236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_21
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 522
+        width: 165
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874707c5560034f40800000000000000
+      internalID: 5711409187778491512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_22
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 527
+        width: 60
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b781a23c07c1e00800000000000000
+      internalID: 1016811599406070659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_23
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 526
+        width: 128
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6572b3eff5780c60800000000000000
+      internalID: 7784601697807136109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_24
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 530
+        width: 134
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a04bde40ed25a40800000000000000
+      internalID: 5355587019646175802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_25
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 526
+        width: 128
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83bff88a44098d50800000000000000
+      internalID: 6739923035509207947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_26
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 522
+        width: 248
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956bde971c832ab60800000000000000
+      internalID: 7755823911910880857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_27
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 530
+        width: 134
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f758ad48d90a1cc0800000000000000
+      internalID: -3739665715957311497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-11_28
+      rect:
+        serializedVersion: 2
+        x: 4777
+        y: 491
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f99d4c2a90a120800000000000000
+      internalID: 2423106114596500443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unity_shadow-11_0: 5774861651187116626
+      unity_shadow-11_1: 985077300955378437
+      unity_shadow-11_10: -7182220378784666912
+      unity_shadow-11_11: -4501366070284085472
+      unity_shadow-11_12: 5670932091253719785
+      unity_shadow-11_13: 2882002761666462885
+      unity_shadow-11_14: -5306803234758528365
+      unity_shadow-11_15: 3053417117934800740
+      unity_shadow-11_16: 7431421355233571880
+      unity_shadow-11_17: 250912152587972043
+      unity_shadow-11_18: -4378234017198349308
+      unity_shadow-11_19: 1982511861742953238
+      unity_shadow-11_2: -3068650158721359044
+      unity_shadow-11_20: -5602454657884696236
+      unity_shadow-11_21: 5711409187778491512
+      unity_shadow-11_22: 1016811599406070659
+      unity_shadow-11_23: 7784601697807136109
+      unity_shadow-11_24: 5355587019646175802
+      unity_shadow-11_25: 6739923035509207947
+      unity_shadow-11_26: 7755823911910880857
+      unity_shadow-11_27: -3739665715957311497
+      unity_shadow-11_28: 2423106114596500443
+      unity_shadow-11_3: 1936711230250721070
+      unity_shadow-11_4: -8544559660817258360
+      unity_shadow-11_5: -3835506876524485912
+      unity_shadow-11_6: 4826665713883246613
+      unity_shadow-11_7: -2224673101276442874
+      unity_shadow-11_8: 5187922603475718402
+      unity_shadow-11_9: 5906382154582168312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

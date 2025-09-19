@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 2efd930f29ccfe04cbc094c4eb7129e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1214209691594211540
+    second: unity_shadow-02_0
+  - first:
+      213: 8009925855507328398
+    second: unity_shadow-02_1
+  - first:
+      213: -4682787842290465676
+    second: unity_shadow-02_2
+  - first:
+      213: -6300839638763792054
+    second: unity_shadow-02_3
+  - first:
+      213: 4089554761075285491
+    second: unity_shadow-02_4
+  - first:
+      213: -681850685823432630
+    second: unity_shadow-02_5
+  - first:
+      213: -8426319910839414634
+    second: unity_shadow-02_6
+  - first:
+      213: -5366341925017133783
+    second: unity_shadow-02_7
+  - first:
+      213: -5131338839726055140
+    second: unity_shadow-02_8
+  - first:
+      213: 7028257778060431519
+    second: unity_shadow-02_9
+  - first:
+      213: 3397298087548674071
+    second: unity_shadow-02_10
+  - first:
+      213: -1065703732081555976
+    second: unity_shadow-02_11
+  - first:
+      213: 4362952199778938230
+    second: unity_shadow-02_12
+  - first:
+      213: 1179150115760626863
+    second: unity_shadow-02_13
+  - first:
+      213: 8581232472045702404
+    second: unity_shadow-02_14
+  - first:
+      213: -5576984483556710676
+    second: unity_shadow-02_15
+  - first:
+      213: -7384894713057913983
+    second: unity_shadow-02_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unity_shadow-02_0
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 456
+        width: 226
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fb0b9f7b2462fe0800000000000000
+      internalID: -1214209691594211540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_1
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 714
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d2bbe8029f82f60800000000000000
+      internalID: 8009925855507328398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_2
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 714
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47442c59445630fb0800000000000000
+      internalID: -4682787842290465676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_3
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 449
+        width: 67
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4998c85bbbee88a0800000000000000
+      internalID: -6300839638763792054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_4
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 458
+        width: 162
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd5667436401c830800000000000000
+      internalID: 4089554761075285491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_5
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 457
+        width: 161
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4843a1f9649986f0800000000000000
+      internalID: -681850685823432630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_6
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 448
+        width: 285
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6909d968fa2bf0b80800000000000000
+      internalID: -8426319910839414634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_7
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 452
+        width: 186
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d5118837ce685b0800000000000000
+      internalID: -5366341925017133783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_8
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 447
+        width: 190
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a6f32382d9c8b0800000000000000
+      internalID: -5131338839726055140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_9
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 453
+        width: 68
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f901b2b3633698160800000000000000
+      internalID: 7028257778060431519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_10
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 452
+        width: 146
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710e3786c90a52f20800000000000000
+      internalID: 3397298087548674071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_11
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 452
+        width: 186
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5887d1a1cd531f0800000000000000
+      internalID: -1065703732081555976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_12
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 447
+        width: 190
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d25d7e8e15c8c30800000000000000
+      internalID: 4362952199778938230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_13
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 453
+        width: 68
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facd5ca68ce2d5010800000000000000
+      internalID: 1179150115760626863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_14
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 452
+        width: 146
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc45fc779a61770800000000000000
+      internalID: 8581232472045702404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_15
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 452
+        width: 186
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6acbb09229a92b0800000000000000
+      internalID: -5576984483556710676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unity_shadow-02_16
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 447
+        width: 190
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d584a265938990800000000000000
+      internalID: -7384894713057913983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      unity_shadow-02_0: -1214209691594211540
+      unity_shadow-02_1: 8009925855507328398
+      unity_shadow-02_10: 3397298087548674071
+      unity_shadow-02_11: -1065703732081555976
+      unity_shadow-02_12: 4362952199778938230
+      unity_shadow-02_13: 1179150115760626863
+      unity_shadow-02_14: 8581232472045702404
+      unity_shadow-02_15: -5576984483556710676
+      unity_shadow-02_16: -7384894713057913983
+      unity_shadow-02_2: -4682787842290465676
+      unity_shadow-02_3: -6300839638763792054
+      unity_shadow-02_4: 4089554761075285491
+      unity_shadow-02_5: -681850685823432630
+      unity_shadow-02_6: -8426319910839414634
+      unity_shadow-02_7: -5366341925017133783
+      unity_shadow-02_8: -5131338839726055140
+      unity_shadow-02_9: 7028257778060431519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
