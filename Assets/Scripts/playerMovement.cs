@@ -31,7 +31,8 @@ public class playerMovement : MonoBehaviour
     private int facing = 1; //1 = right, -1 = left
     
     
-    
+    public AudioSource audioSource;
+    public AudioClip flashlightSound;
     
     
     void Start()
@@ -95,5 +96,7 @@ public class playerMovement : MonoBehaviour
         {
             lightCollider.enabled = on;
         }
+        if (audioSource&& flashlightSound)
+            audioSource.PlayOneShot(flashlightSound);
     }
 }
